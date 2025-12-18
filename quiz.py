@@ -8,7 +8,7 @@ question = {
     "16+17":['32','33','43','1']
 }
 # define answer list
-ans = ['5', '1', '6']
+ans = ['5', '1', '6','33']
 
 current_question = 0
 
